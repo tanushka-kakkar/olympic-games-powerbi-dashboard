@@ -50,7 +50,7 @@ A six-page interactive Power BI report on more than a century of Olympic history
 
 - **The US dominates the all-time medal table** with 3.0K medals, followed by the Soviet Union (1.2K), Germany (1.1K), Great Britain (1.0K) and France (1.0K).
 - **Athletics is the biggest sport** (1,025 medals), ahead of Swimming (586) and Wrestling (428).
-- **Medal counts rise with each Games** as more events and countries participate — the 1980s and 1990s expansions are clearly visible in the trend.
+- **Medal counts generally rise over time** as more events and countries participate — the post-war expansion is clearly visible in the trend.
 - **Host nations win more when hosting**, but the effect is concentrated in a few large delegations rather than universal.
 - **Participation is still uneven by gender**: women account for 31% of medal winners across the full history, though the trend line shows steady convergence in recent decades.
 - **Athlete longevity is rare**: only a small group appears in 9–10 Games, led by Ian Millar.
